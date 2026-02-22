@@ -75,11 +75,6 @@ gcloud run deploy rag-1 \
 
 3. Configure environment variables/secrets in Cloud Run:
 - `PINECONE_API_KEY`
-- `GEMINI_API_KEY`
-- Any other settings required by `src/config.py`
 
-## Notes
 
-- Do not commit service-account JSON keys.
-- `docs/uploads/` is ignored and treated as runtime scratch storage.
-- On Cloud Run, container listens on `$PORT` (handled in Dockerfile command).
+
