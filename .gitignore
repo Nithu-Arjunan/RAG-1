@@ -1,0 +1,52 @@
+genaiacademy-487009-a0c5ab89a92f.json
+src/genaiacademy-487009-a0c5ab89a92f.json
+Steps to use Gemini models'.docx
+main_old
+package-lock.json
+package.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+env/
+venv/
+*.egg-info/
+dist/
+build/
+.DS_Store
+*.log
+coverage/
+*.sqlite3
+*.db
+
+# Node/React (ui folder)
+ui/node_modules/
+ui/build/
+ui/.env
+ui/.DS_Store
+ui/npm-debug.log
+ui/yarn-debug.log
+ui/yarn-error.log
+
+# General
+*.swp
+*.swo
+.idea/
+.vscode/
+.history/
+
+# Runtime uploads and local artifacts
+docs/uploads/
+# Node/React (UI folder)
+UI/node_modules/
+UI/build/
+UI/dist/
+UI/.env
+UI/.DS_Store
+UI/npm-debug.log
+UI/yarn-debug.log
+UI/yarn-error.log
