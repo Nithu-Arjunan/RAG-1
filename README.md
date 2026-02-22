@@ -1,4 +1,4 @@
-# RAG-1
+# Classic RAG
 
 Retrieval-Augmented Generation (RAG) app with:
 - FastAPI backend for document ingestion and chat querying
