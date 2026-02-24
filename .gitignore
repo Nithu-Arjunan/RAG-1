@@ -4,6 +4,9 @@ Steps to use Gemini models'.docx
 main_old
 package-lock.json
 package.json
+embedding_learning.py
+ingestion_learn.py
+node_modules/
 
 # Python
 __pycache__/

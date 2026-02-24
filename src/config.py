@@ -28,8 +28,9 @@ TOP_K:int = 10
 RERANK_TOP_N:int = 5
 
 # Generation settings
-PROJECT_ID: str = "genaiacademy-487009"
+PROJECT_ID = os.getenv("PROJECT_ID","")
 LOCATION: str = "us-central1"
 GEMINI_MODEL: str = "gemini-2.0-flash"
 MAX_TOKENS: int = 1024
 TEMPERATURE: float = 0.2
+
